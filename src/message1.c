@@ -1,4 +1,4 @@
 void my_message()
 {
-    printf("My intial Message : New at github") ; 
+    printf("My new Message : i am learing") ; 
 }
